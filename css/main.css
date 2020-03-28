@@ -515,7 +515,6 @@ div.invitado:hover p {
   bottom: -80px;
   opacity: 0;
   -moz-transition: all .5s ease-in-out;
-  -webkit-transition: all .5s ease-in-out;
   transition: all .5s ease-in-out;
 }
 div.invitado p span {
