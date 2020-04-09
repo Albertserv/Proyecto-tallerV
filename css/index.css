@@ -3,5 +3,9 @@
 }
 
 .bg-navbar .navbar-nav .nav-link {
+  color: #ababde;
+}
+
+.bg-navbar .navbar-nav .nav-link:hover {
   color: #fff;
 }
