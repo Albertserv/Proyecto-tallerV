@@ -1,0 +1,7 @@
+header .navbar {
+  background-color: #0c386c;
+}
+
+header .navbar .nav-link {
+  color: #fff;
+}
