@@ -1,20 +1,20 @@
-.bg-navbar {
+.bg-dark-blue, .bg-navbar {
   background-color: #0c386c !important;
 }
 
-.bg-navbar .nav-link {
+#social-network-list .nav-link, .bg-navbar .nav-link {
   color: #ababde;
 }
 
-.bg-navbar .nav-link:hover {
+#social-network-list .nav-link:hover, .bg-navbar .nav-link:hover {
   color: #fff;
 }
 
-.bg-navbar .nav-link.active {
+#social-network-list .nav-link.active, .bg-navbar .nav-link.active {
   background-color: #0f4483;
 }
 
 #social-network-list .nav-item {
   font-size: 1.25rem;
-  padding-right: 1rem;
+  padding-right: 0.25rem;
 }
