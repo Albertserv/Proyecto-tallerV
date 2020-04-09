@@ -1,7 +1,7 @@
-header .navbar {
-  background-color: #0c386c;
+.bg-navbar {
+  background-color: #0c386c !important;
 }
 
-header .navbar .nav-link {
+.bg-navbar .navbar-nav .nav-link {
   color: #fff;
 }
