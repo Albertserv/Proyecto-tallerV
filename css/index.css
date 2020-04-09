@@ -13,3 +13,8 @@
 .bg-navbar .nav-link.active {
   background-color: #0f4483;
 }
+
+#social-network-list .nav-item {
+  font-size: 1.25rem;
+  padding-right: 1rem;
+}
